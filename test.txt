@@ -1,5 +1,10 @@
 ddd
 
+dddd
+d
 
+<<<<<<< HEAD
+=======
 
-ff
+dddd
+>>>>>>> b401550 (ccc)
